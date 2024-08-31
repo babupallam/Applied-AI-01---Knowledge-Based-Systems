@@ -1,4 +1,4 @@
-# Knowledge-Based Systems (KBS) Mastery README
+# Knowledge-Based Systems (KBS) 
 
 ## Introduction
 This repository is dedicated to mastering the concepts, methodologies, and applications of Knowledge-Based Systems (KBS). It includes comprehensive study materials and a variety of projects that explore different types of KBS. The goal is to provide a structured path to gain expertise in KBS, covering both theoretical foundations and practical implementations.
