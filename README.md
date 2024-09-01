@@ -96,7 +96,7 @@ KBS are used in various fields including medicine, engineering, finance, and mor
    - Tools like Python, CLIPS, Prolog, MATLAB installed on your system.
 
 2. **Installation:**
-   - Clone this repository: `git clone https://github.com/babupallam/kbs-mastery.git`
+   - Clone this repository: `[git clone https://github.com/babupallam/kbs-mastery.git](https://github.com/babupallam/Applied-AI-01---Knowledge-Based-Systems.git)`
    - Follow the instructions in the project folders for setting up individual projects.
 
 3. **Running the Projects:**
