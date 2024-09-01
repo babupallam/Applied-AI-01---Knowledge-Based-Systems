@@ -32,28 +32,36 @@ KBS are used in various fields including medicine, engineering, finance, and mor
 - **Introduction to KBS:** Definition, history, and importance of KBS.
 - **Types of KBS:** Overview of different types of KBS such as rule-based systems, expert systems, case-based reasoning systems, and fuzzy logic systems.
 - **Applications of KBS:** Real-world applications in various industries.
+- **Link:** [Further Study](https://github.com/babupallam/Applied-AI-01---Knowledge-Based-Systems/blob/main/README_01_Introduction_to_Knowledge_Based_Systems_(KBS).ipynb)
 
 ### 2. Inference Mechanisms
 - **Forward and Backward Chaining:** Understanding inference mechanisms.
 - **Reasoning Under Uncertainty:** Handling uncertainty in KBS.
 - **Inference Engines:** Design and implementation of inference engines.
-
+- **Link:** [Further Study](https://github.com/babupallam/Applied-AI-01---Knowledge-Based-Systems/blob/main/README_02_Inference_Mechanisms_in_Knowledge_Based_Systems_(KBS).ipynb)
+ 
 ### 3. Knowledge Representation
 - **Logical Representation:** Propositional and predicate logic.
 - **Semantic Networks:** Graph-based knowledge representation.
 - **Frames and Ontologies:** Structuring knowledge in KBS.
 - **Production Rules:** Rule-based knowledge representation.
-
+- **Link:** [Further Study](https://github.com/babupallam/Applied-AI-01---Knowledge-Based-Systems/blob/main/README_03_Knowledge_Representation_in_KBS.ipynb)
+ 
 ### 4. Machine Learning in KBS
 - **Introduction to ML in KBS:** How machine learning complements KBS.
 - **Integration of KBS and ML:** Case studies and examples.
 - **Neural Networks as KBS:** Implementing neural networks within KBS.
+- **Link:** [Further Study](https://github.com/babupallam/Applied-AI-01---Knowledge-Based-Systems/blob/main/README_04_Machine_Learning_in_Knowledge_Based_Systems_(KBS).ipynb)
 
 ### 5. Advanced Topics in KBS
 - **Hybrid KBS:** Combining multiple approaches for enhanced decision-making.
 - **Distributed KBS:** Architectures and challenges.
 - **Ethics in KBS:** Addressing ethical concerns in KBS development.
+- **Link:** [Further Study](https://github.com/babupallam/Applied-AI-01---Knowledge-Based-Systems/blob/main/README_05_Advanced_Topics_in_Knowledge_Based_Systems_(KBS).ipynb)
 
+### 6. Future of KBS in 2050
+- **Link** [Further Study](https://github.com/babupallam/Applied-AI-01---Knowledge-Based-Systems/blob/main/README_06_The_Future_of_Knowledge_Based_Systems(KBS)_2050.ipynb)
+  
 ## Projects
 
 ### 1. Rule-Based Systems
